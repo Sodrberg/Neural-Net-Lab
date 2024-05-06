@@ -14,4 +14,8 @@ Detta har iallafall resulterat i att jag har endast en V1 av resnet nätverket, 
 träna om det och uppnått bättre resultat.
 Jag hade velat raffinera denna uppgift, då jag inte är helt nöjd.
 Jag tröstar mig med att jag lär mig väldigt mycket.
- 
+
+*update*
+Runpod har kommit till min kännedom. Detta löser problemat där "gpu-tiden" tar slut, pga lång loading av datasetet.
+Om det krävs, så ser jag till att träna om nätverket igen.
+
