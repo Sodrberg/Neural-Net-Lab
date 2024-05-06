@@ -1,6 +1,7 @@
-Jag inser att jag inte har applicerat alla ML best-practises. Jag skyller på gpu-problematik.
+Jag inser att jag inte har applicerat alla MLOps best-practises. Jag skyller på gpu-problematik.
 Men jag förstår vikten av versions-hantering, checkpoints , plotning mm.
 Det är ytterst nödvändigt för att kunna veta hur man justerar nätverket för bättre resultat.
+Motverka overfiting osv.
 
 Jag har använt google colab och kaggle för träning av nätverken.
 Problemet jag har haft är hur jag laddar in datasetet. 
@@ -17,5 +18,5 @@ Jag tröstar mig med att jag lär mig väldigt mycket.
 
 *Update* - 
 Runpod har kommit till min kännedom. Detta löser problemat där "gpu-tiden" tar slut, pga lång loading av datasetet.
-Om det krävs, så ser jag till att träna om nätverket igen.
+Om det krävs, så ser jag till att träna om nätverket igen och visar på förbättrad MLOps-utövande.
 
